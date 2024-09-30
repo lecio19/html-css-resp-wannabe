@@ -1,0 +1,16 @@
+/* media queries */
+/* DESKTOP FIRST */
+
+.container {
+    max-width: 1140px;
+    width: 100%;
+}
+
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 480px) {
+
+}
+
