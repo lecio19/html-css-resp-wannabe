@@ -10,7 +10,25 @@
 
 }
 
+.row {
+    flex-wrap: wrap;
+}
+
 @media (max-width: 480px) {
+    .lessons .col {
+        width: 100%;
+    }
 
 }
+
+.why-us {
+    background-color: black;
+    margin-bottom: 0%;
+}
+
+
+
+
+
+
 
